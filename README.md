@@ -1,2 +1,3 @@
-# spark
-Ignite your Digital Ocean deployment process by automating them using Spark!
+# app
+
+a [Sails](http://sailsjs.org) application
